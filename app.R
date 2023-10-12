@@ -1,7 +1,7 @@
 # setwd()
 # work_dir <- 'e:/Praca/Nauka/Artykul 16/'
 work_dir <- 'https://socialmath.pl/public_resources/'
-# library(shiny)
+library(shiny)
 library(ggplot2)
 library(ggrepel)
 
